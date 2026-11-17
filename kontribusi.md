@@ -3,10 +3,10 @@
 Kontribusi dinilai dari GitHub (commit dan pull request) dan dari kemampuan menjelaskan bagian yang diklaim.
 Repositori kelompok: https://github.com/marcheliano-satrio/UTS_Deep_Learning
 
-| Nama | NIM | GitHub | Peran utama | Pull request |
-|---|---|---|---|---|
-| Satrio Arjuna Putra | TODO | `SatrioArjunaPutra` | Kerangka repo dan aturan proyek; **Task 1** (klasifikasi multimodal) dan **Task 3** (clustering multimodal) utuh; integrasi `reproduce.py`, `kode/README.md`, `weights/`, ketiga file prediksi; bab Task 1 dan Task 3; review & merge PR Marchel | [#1](https://github.com/marcheliano-satrio/UTS_Deep_Learning/pull/1) kerangka, [#2](https://github.com/marcheliano-satrio/UTS_Deep_Learning/pull/2) Task 1, [#3](https://github.com/marcheliano-satrio/UTS_Deep_Learning/pull/3) Task 3, [#4](https://github.com/marcheliano-satrio/UTS_Deep_Learning/pull/4) integrasi, [#5](https://github.com/marcheliano-satrio/UTS_Deep_Learning/pull/5) README |
-| M Marcheliano Taji Suryana | TODO | `muhammadmarchel` | **Task 2** (RUL): memahami dan memverifikasi kode, cek kebocoran data, bab Task 2; finalisasi laporan: pendahuluan, kesimpulan, penggabungan menjadi `laporan.pdf`, `kode/tabel_laporan.py`, `docs/tabel_laporan.md`, `kontribusi.md`, `docs/persiapan_lisan.md` | [#6](https://github.com/marcheliano-satrio/UTS_Deep_Learning/pull/6) Task 2, TODO: link PR laporan |
+| Nama | GitHub | Peran utama | Pull request |
+|---|---|---|---|
+| Satrio Arjuna Putra | `SatrioArjunaPutra` | Kerangka repo dan aturan proyek; **Task 1** (klasifikasi multimodal) dan **Task 3** (clustering multimodal) utuh; integrasi `reproduce.py`, `kode/README.md`, `weights/`, ketiga file prediksi; bab Task 1 dan Task 3; review & merge PR Marchel | [#1](https://github.com/marcheliano-satrio/UTS_Deep_Learning/pull/1) kerangka, [#2](https://github.com/marcheliano-satrio/UTS_Deep_Learning/pull/2) Task 1, [#3](https://github.com/marcheliano-satrio/UTS_Deep_Learning/pull/3) Task 3, [#4](https://github.com/marcheliano-satrio/UTS_Deep_Learning/pull/4) integrasi, [#5](https://github.com/marcheliano-satrio/UTS_Deep_Learning/pull/5) README |
+| M Marcheliano Taji Suryana | `muhammadmarchel` | **Task 2** (RUL): memahami dan memverifikasi kode, cek kebocoran data, bab Task 2; finalisasi laporan: pendahuluan, kesimpulan, penggabungan menjadi `laporan.pdf`, `kode/tabel_laporan.py`, `docs/tabel_laporan.md`, `kontribusi.md`, `docs/persiapan_lisan.md` | [#6](https://github.com/marcheliano-satrio/UTS_Deep_Learning/pull/6) Task 2, TODO: link PR laporan |
 
 Catatan pembagian kerja: training semua task dijalankan di laptop Satrio (GPU RTX 3050). Kode Task 2 disusun
 di laptop itu lalu diserahkan ke Marchel. Marchel membaca, memverifikasi, dan menulis bab Task 2, lalu
